@@ -10,7 +10,7 @@ html,body{
     position: relative;
     width: 100vw;
     height: 500px;
-    background-image: url('./restaurant.png');
+    background-image: url('./images/restaurant.png');
     background-position: center;
     
     background-size: cover;
